@@ -68,11 +68,11 @@ I am currently expanding into the following areas to deepen my QA expertise:
 
 You’ll find repositories categorized by skill and type:
 
-- `qa-report-template` → Sample test reports  
-- `manual-test-cases` → Structured manual testing scenarios  
-- `android-apps-legacy` → Archived Android apps (Java-based)  
-- `automated-testing-learning` → Scripts from Selenium or Cypress practice  
-- `ux-feedback-research` → Templates for usability feedback  
+- [qa-report-template](./qa-report-template) → Sample test reports  
+- [manual-test-cases](./manual-test-cases) → Structured manual testing scenarios  
+- [android-apps-legacy](./android-projects) → Archived Android apps (Java-based)  
+- [automated-testing-learning](./automated-testing-learning) → Scripts from Selenium or Cypress practice  
+- [ux-feedback-research](./ux-feedback-research) → Templates for usability feedback  
 
 ---
 
