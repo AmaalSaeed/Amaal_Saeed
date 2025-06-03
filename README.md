@@ -99,9 +99,9 @@ Below are some key Android applications I developed or contributed to during my 
 
 | Projec Name                   | Description                                                                                   | Repo Link                                              |
 |-------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| 🧪 Lab Management App        | A mobile system for managing medical test results and appointment scheduling in private labs. | [GitHub](https://github.com/)|
+| 🧪 Lab Management App        | A mobile system for managing medical test results and appointment scheduling in private labs.  | [GitHub](https://github.com/)|
 | 📍 Agent Tracker for Labs     | Field agent tracking app using location services to monitor visits to partner labs and clinics.| [GitHub](https://github.com/)|
-| 🛒 POS & E-commerce App      | A mobile point-of-sale solution with integrated e-commerce features for local retail businesses.| [GitHub](https://github.com/Super-POS)|
+| 🛒 POS & E-commerce App      | A mobile point-of-sale solution with integrated e-commerce features for local retail businesses.| [GitHub](https://github.com/AmaalSaeed/Super-POS)|
 
 **Technologies Used**:  
 Java • Android SDK • Firebase • SQLite • Google Maps API • XML • Git • REST APIs
